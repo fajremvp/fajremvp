@@ -62,7 +62,7 @@ I am a **Software Engineering** student, currently at the beginning of my course
     <td width="50%">
       <div align="center">
         <a href="https://github.com/fajremvp/S4F3-C0D3S" target="_blank">
-          <img src="https://github.com/fajremvp/S4F3-C0D3S/blob/master/READMEresources/MainLogo.png" width="500" style="object-fit: cover;" alt="S4F3-C0D3S">
+          <img src="https://github.com/fajremvp/S4F3-C0D3S/blob/master/READMEresources/MainLogo.png" width="980" style="object-fit: cover;" alt="S4F3-C0D3S">
         </a>
         <p>
           <a href="https://github.com/fajremvp/S4F3-C0D3S" target="_blank">
