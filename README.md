@@ -101,9 +101,9 @@ I am a **Software Engineering** student, currently at the beginning of my course
 <!-- Visitor Counter -->
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/fajremvp/count.svg">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+  <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+  <img src="https://komarev.com/ghpvc/?username=fajremvp&color=blueviolet&style=for-the-badge" alt="Visitor Count">
+  <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 <br>
 <br>
