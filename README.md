@@ -15,7 +15,6 @@ I am a **Software Engineering** student, currently at the beginning of my course
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
 - **I use Arch, btw.** 😎
-- Outside technology, I enjoy 🎮 playing video games, especially with other people (I don't like playing alone). My favorite series are Black Mirror and Love, Death + Robots.
 - 📫 Reach out to me at: <a href="fajre.frosted585@slmail.me">fajre.frosted585@slmail.me</a> (Yes, it's an alias)
 
 <div align="center">
