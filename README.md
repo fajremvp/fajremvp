@@ -17,11 +17,11 @@ I am a **Software Engineering** student, currently at the beginning of my course
 - **I use Arch, btw.** 😎
 - 📫 Reach out to me at: <a href="fajre.frosted585@slmail.me">fajre.frosted585@slmail.me</a> (Yes, it's an alias)
 
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=fajremvp&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>
+<p align="center">
+  <a href="https://github.com/fajremvp">
+    <img src="https://github-profile-trophy.vercel.app/?username=fajremvp&theme=radical" alt="TROPHY">
+  </a>
+</p>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; **_Skills_**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -43,6 +43,7 @@ I am a **Software Engineering** student, currently at the beginning of my course
 
 ###### Development Environments:
 
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
