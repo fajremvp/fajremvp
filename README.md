@@ -91,7 +91,7 @@ I am a **Software Engineering** student, currently at the beginning of my course
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=fajremvp&theme=nightowl&hide_border=false" alt="fajremvp streak" />
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fajremvp&theme=nightowl&hide_border=false&langs_count=10&exclude_repo=elemo,SUAM,ente,dotfiles"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fajremvp&theme=nightowl&hide_border=false&langs_count=10&exclude_repo=elemo,SUAM,ente,dotfiles,MysticJourneyAlpha"/>
 </td>
 </tr>
 </table>
