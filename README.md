@@ -17,6 +17,7 @@ Software Engineering student, passionate about open-source and decentralized sys
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+![Proxmox](https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33)
 ![Vault](https://img.shields.io/badge/HashiCorp%20Vault-FFFFFF?style=for-the-badge&logo=vault&logoColor=black)
 ![Authentik](https://img.shields.io/badge/Authentik-FD4B1D?style=for-the-badge&logo=authentik&logoColor=white)
 ![CrowdSec](https://img.shields.io/badge/CrowdSec-0A1A2F?style=for-the-badge&logo=crowdsec&logoColor=white)
@@ -29,12 +30,6 @@ Software Engineering student, passionate about open-source and decentralized sys
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=loki&logoColor=white)
 ![Ntfy](https://img.shields.io/badge/Ntfy-2EC4B6?style=for-the-badge&logo=ntfy&logoColor=white)
-
-![Proxmox](https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
 ---
 
