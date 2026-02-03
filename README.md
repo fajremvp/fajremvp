@@ -28,6 +28,7 @@ Software Engineering student, passionate about open-source and decentralized sys
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=loki&logoColor=white)
+![Ntfy](https://img.shields.io/badge/Ntfy-2EC4B6?style=for-the-badge&logo=ntfy&logoColor=white)
 
 ![Proxmox](https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
