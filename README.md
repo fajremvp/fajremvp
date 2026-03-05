@@ -7,4 +7,3 @@ Infrastructure and DevOps Engineer, passionate about open-source and decentraliz
 ### 📫 Contact
 
 * **Email:** [fajre.frosted585@slmail.me](mailto:fajre.frosted585@slmail.me) (Yes, it's an alias)
-* **Nostr:** npub1dykmduj9qepw44zcwqah0wvxftzvd0escfrqqrxjhawd8c8mzagqgxfysu
