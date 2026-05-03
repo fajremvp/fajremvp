@@ -4,7 +4,7 @@ Infrastructure and DevOps Engineer, passionate about open-source and decentraliz
 
 ---
 
-🏔️ Codeberg backup: [codeberg.org/fajre](https://codeberg.org/fajre)
+Codeberg backup: [codeberg.org/fajre](https://codeberg.org/fajre)
 
 ### 📫 Contact
 
