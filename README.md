@@ -1,6 +1,6 @@
 Infrastructure and DevOps Engineer, passionate about open-source and decentralized systems.
 
-> "I use Arch, btw"
+> "I use Nix, btw"
 
 ---
 
